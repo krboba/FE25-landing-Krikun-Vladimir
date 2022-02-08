@@ -22,7 +22,6 @@
   margin: 0 15px;
 }
 .pricing-list_item--name {
-  padding: 1px;
   background-color: #333333;
   font-family: Open Sans;
   font-style: normal;
@@ -35,7 +34,6 @@
 }
 
 .pricing-list_item--coast {
-  padding: 1px;
   background-color: #333333;
   font-family: Raleway;
   font-style: normal;
@@ -50,7 +48,6 @@
 }
 
 .pricing-list_item--text {
-  padding: 1px;
   background-color: #333333;
   font-family: Open Sans;
   font-style: normal;
@@ -66,13 +63,14 @@
 
 .pricing-list_item {
   font-family: Open Sans;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 19px;
-/* identical to box height */
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  /* identical to box height */
 
-text-align: center;
+  text-align: center;
 
-color: #86878B;
+  color: #86878b;
 }
+ 

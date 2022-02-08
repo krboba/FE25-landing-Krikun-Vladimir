@@ -20,6 +20,7 @@
   /* overflow: hidden; */
   width: 340px;
   margin: 0 15px;
+  margin-bottom: 30px;
 }
 .pricing-list_item--name {
   background-color: #333333;
@@ -27,10 +28,11 @@
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
-  line-height: 27px;
+  line-height: 50px;
   text-align: center;
 
   color: #ffffff;
+  margin-bottom: 2px;
 }
 
 .pricing-list_item--coast {
@@ -39,12 +41,13 @@
   font-style: normal;
   font-weight: bold;
   font-size: 35px;
-  line-height: 41px;
+  line-height: 100px;
   /* identical to box height */
 
   text-align: center;
 
   color: #ffffff;
+  margin-bottom: 2px;
 }
 
 .pricing-list_item--text {
@@ -53,24 +56,27 @@
   font-style: normal;
   font-weight: 600;
   font-size: 14px;
-  line-height: 19px;
+  line-height: 50px;
   /* identical to box height */
 
   text-align: center;
 
   color: rgba(255, 255, 255, 0.5);
+  margin-bottom: 4px;
 }
 
 .pricing-list_item {
+  background-color: #FFFFFF;
   font-family: Open Sans;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 19px;
+  line-height: 40px;
   /* identical to box height */
 
   text-align: center;
 
   color: #86878b;
+  margin-bottom: 4px;
 }
  

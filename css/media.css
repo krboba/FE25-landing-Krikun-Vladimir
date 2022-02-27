@@ -1,0 +1,39 @@
+.media {
+  background: #f8efef;
+  padding: 13px 0 17px;
+}
+
+.container {
+}
+.media-row {
+  display: flex;
+  /* flex-wrap: ; */
+  justify-content: space-between;
+  /* margin: 0 -15px; */
+}
+.media-left {
+}
+.media-title {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 27px;
+  display: flex;
+  
+  color: #333333;
+  margin-bottom: 14px;
+}
+.media-subtitle-text {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  display: flex;
+  text-align: start;
+
+  color: #86878b;
+}
+.media-right {
+}

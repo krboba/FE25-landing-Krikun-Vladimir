@@ -11,7 +11,7 @@
 .awesome-card {
   /* overflow: hidden; */
   width: 350px;
-  margin: 0 15px;
+  margin: 0 15px 30px;
 }
 .awesome-card-content__color {
   background-color: #fff;
@@ -21,12 +21,12 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  border: 1px solid #E72424;
+  border: 1px solid #e72424;
   border-radius: 50%;
   height: 70px;
   width: 70px;
   background-color: #fff;
-  margin: 30px auto;
+  margin: auto;
 }
 
 .awesome-card-title {
